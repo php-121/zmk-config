@@ -45,7 +45,7 @@
 &rgb_ug RGB_EFR  &trans    &kp UP    &trans     &rgb_ug RGB_HUI  &rgb_ug RGB_SAI  &rgb_ug RGB_BRI  &rgb_ug RGB_SPI  &trans    &kp PGUP  &trans     &kp C_VOLUME_DOWN  &kp C_VOLUME_UP          &trans
 &rgb_ug RGB_EFF  &kp LEFT  &kp DOWN  &kp RIGHT  &rgb_ug RGB_HUD  &rgb_ug RGB_SAD  &rgb_ug RGB_BRD  &rgb_ug RGB_SPD  &kp HOME  &kp PGDN  &kp END    &trans                                      &bootloader
 &trans                     &trans    &trans     &trans           &trans           &trans           &trans           &trans    &trans    &trans     &trans             &trans                   &trans
-&trans           &trans              &trans                                       &rgb_ug RGB_TOG                                       &kp PSCRN  &trans             &trans                   &mo 2
+&trans           &trans              &trans                                       &rgb_ug RGB_TOG                                       &kp PSCRN  &trans             &mo 2                    &mo 2
             >;
         };
 
